@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a30062&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a30062&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julia+Rosa;I+am+a+Software+Engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a30062&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julia;I+am+a+Software+Engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jul1arosa&bg_color=0d1117&color=a30062&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -14,9 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jul1arosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">
 <p>
@@ -31,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
 ![C/C++](https://img.shields.io/badge/-C/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
+![Javascri](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
