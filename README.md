@@ -27,7 +27,7 @@
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
-![C/C++](https://img.shields.io/badge/-C/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=0D1117)&nbsp;
+![C/C#](https://img.shields.io/badge/-C/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Javascri](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
