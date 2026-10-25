@@ -3,10 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a30062&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julia;I+am+a+Software+Engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jul1arosa&bg_color=0d1117&color=a30062&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🧠 About Me
-- 19-year-old Software Engineering student from 🇧🇷
+- 20-year-old Software Engineering student from 🇧🇷
 - Currently working as an **IT Support Analyst** at [Mercos](https://mercos.com/)
 - 🎓 Data Science Technician
 - Developing my skills as a **Fullstack Developer** and taking my first steps toward becoming a **Software Engineer**.
